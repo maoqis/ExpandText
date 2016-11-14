@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandText</string>
+    <string name="text1">测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试\" +                         \"测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试</string>
+    <string name="text2">您好吗您好吗您好吗您好吗您好吗您好吗您好吗您好吗您好吗您好吗您好吗您好吗您好吗您好吗您好吗您好吗好吗您好吗您好吗您好吗您好吗</string>
+</resources>
